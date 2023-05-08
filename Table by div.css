@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: orange;
+}
+.one{
+    width: 600px;
+    height: 200px;
+    background-color: lime;
+    float: left;
+}
+.four{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+.five{
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    float: left;
+}
+.six{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    display: inline-block;
+}
+.two{
+    width: 600px;
+    height: 200px;
+    background-color: gray;
+}
+.three{
+    width: 600px;
+    height: 200px;
+    background-color: fuchsia;
+}
